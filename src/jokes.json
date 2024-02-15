@@ -1,0 +1,514 @@
+{
+    "en": [
+        {
+            "question": "Why was the math book sad?",
+            "answer": "Because it had too many problems."
+        },
+        {
+            "question": "What do you call fake spaghetti?",
+            "answer": "An impasta."
+        },
+        {
+            "question": "Why couldn't the bicycle stand up by itself?",
+            "answer": "It was two-tired."
+        },
+        {
+            "question": "What do you get when you cross a snowman and a vampire?",
+            "answer": "Frostbite."
+        },
+        {
+            "question": "Why don't skeletons fight each other?",
+            "answer": "They don't have the guts."
+        },
+        {
+            "question": "What did one hat say to the other hat?",
+            "answer": "You stay here, I'll go on ahead."
+        },
+        {
+            "question": "Why did the scarecrow win an award?",
+            "answer": "Because he was outstanding in his field."
+        },
+        {
+            "question": "How do you organize a space party?",
+            "answer": "You planet."
+        },
+        {
+            "question": "Why was the broom late?",
+            "answer": "It overswept."
+        },
+        {
+            "question": "What did one ocean say to the other ocean?",
+            "answer": "Nothing, they just waved."
+        },
+        {
+            "question": "Why don't scientists trust atoms?",
+            "answer": "Because they make up everything."
+        },
+        {
+            "question": "Why did the tomato turn red?",
+            "answer": "Because it saw the salad dressing."
+        },
+        {
+            "question": "What did one snowman say to the other?",
+            "answer": "Do you smell carrots?"
+        },
+        {
+            "question": "Why don't eggs tell jokes?",
+            "answer": "Because they'd crack each other up."
+        },
+        {
+            "question": "Why did the golfer bring two pairs of pants?",
+            "answer": "In case he got a hole in one."
+        },
+        {
+            "question": "What did one plate say to the other plate?",
+            "answer": "Lunch is on me."
+        },
+        {
+            "question": "Why don't skeletons go to scary movies?",
+            "answer": "They don't have the guts."
+        },
+        {
+            "question": "Why did the math book look sad?",
+            "answer": "Because it had too many problems."
+        },
+        {
+            "question": "What did one wall say to the other wall?",
+            "answer": "I'll meet you at the corner."
+        },
+        {
+            "question": "What is the difference between a hippo and a zippo?",
+            "answer": "One is really heavy and the other is a little lighter."
+        },
+        {
+            "question": "What do you call a fake noodle?",
+            "answer": "An impasta!"
+        },
+        {
+            "question": "What do you call something that runs but never gets anywhere?",
+            "answer": "A refrigerator."
+        },
+        {
+            "question": "What do you call something that's easy to get into, but hard to get out of?",
+            "answer": "Trouble."
+        },
+        {
+            "question": "What do you do to get a robot mad?",
+            "answer": "Push all of its buttons."
+        },
+        {
+            "question": "What do you call a joke without a punchline?",
+            "answer": "Silence."
+        },
+        {
+            "question": "What do you call a horse that can't lose a race?",
+            "answer": "A sherbet."
+        },
+        {
+            "question": "What do you call the security guards outside the Samsung factory?",
+            "answer": "The Guardians of the Galaxy."
+        },
+        {
+            "question": "What do you call someone that saw an iPhone being stolen?",
+            "answer": "An iWitness."
+        },
+        {
+            "question": "What do you call someone who never passes gas in public?",
+            "answer": "A private tutor."
+        },
+        {
+            "question": "What do you call it when a prisoner takes his own mugshot?",
+            "answer": "A cellfie."
+        },
+        {
+            "question": "What do you call blackbirds that stick together?",
+            "answer": "Vel-crows."
+        },
+        {
+            "question": "What do you call a tiny mother?",
+            "answer": "A minimum!"
+        },
+        {
+            "question": "What do you call a policeman in bed?",
+            "answer": "An undercover cop."
+        },
+        {
+            "question": "What do you call a soldier who survived mustard gas and pepper spray?",
+            "answer": "A seasoned veteran."
+        },
+        {
+            "question": "What do you call a funny mountain?",
+            "answer": "Hill-arious."
+        },
+        {
+            "question": "What do you call a boomerang that doesn't come back?",
+            "answer": "A stick."
+        },
+        {
+            "question": "What do you call a factory that manufactures products that are just OK?",
+            "answer": "A satisfactory."
+        },
+        {
+            "question": "What do you call a bagel that can fly?",
+            "answer": "A plain bagel."
+        },
+        {
+            "question": "What do you call a person with a briefcase in a tree?",
+            "answer": "Branch manager."
+        },
+        {
+            "question": "What do you call someone who cleans the bottom of the ocean?",
+            "answer": "A mer-maid."
+        },
+        {
+            "question": "What do you call something that goes up when the rain comes down?",
+            "answer": "An umbrella."
+        },
+        {
+            "question": "What do you call a doctor who fixes websites?",
+            "answer": "A URL-ologist."
+        },
+        {
+            "question": "What do you call a sleeping dinosaur?",
+            "answer": "A dinosnore."
+        },
+        {
+            "question": "What do you call a Christmas tree that knows karate?",
+            "answer": "Spruce Lee."
+        },
+        {
+            "question": "What does a triangle call a circle?",
+            "answer": "Pointless."
+        },
+        {
+            "question": "What do you call a piece of sad cheese?",
+            "answer": "Blue cheese."
+        },
+        {
+            "question": "What do you call a cow in an earthquake?",
+            "answer": "A milkshake."
+        },
+        {
+            "question": "What do you call an M&M that went to college?",
+            "answer": "A smarty."
+        },
+        {
+            "question": "What do you call a baby polar bear?",
+            "answer": "An ice cub."
+        },
+        {
+            "question": "What do you call a witch that lives at the beach?",
+            "answer": "A sand witch."
+        },
+        {
+            "question": "What do you call a key that opens the door on Thanksgiving?",
+            "answer": "A turkey."
+        },
+        {
+            "question": "What do you call a cheese that doesn't belong to you?",
+            "answer": "Nacho cheese!"
+        },
+        {
+            "question": "What do you call a cow that plays a musical instrument?",
+            "answer": "A moosician."
+        },
+        {
+            "question": "What do you call shorts that clouds wear?",
+            "answer": "Thunderwear."
+        },
+        {
+            "question": "What do you call milk that gets anything it wants?",
+            "answer": "Spoiled milk."
+        },
+        {
+            "question": "What do you call a dog magician?",
+            "answer": "A labracadabrador."
+        },
+        {
+            "question": "What do you call a funny mountain?",
+            "answer": "Hill-arious."
+        },
+        {
+            "question": "What do you call a cute door?",
+            "answer": "Adorable."
+        },
+        {
+            "question": "What do you call someone who draws funny pictures of cars?",
+            "answer": "A car-toonist."
+        },
+        {
+            "question": "What do you call a magician on a plane?",
+            "answer": "A flying sorcerer."
+        },
+        {
+            "question": "What do you call fruit playing the guitar?",
+            "answer": "A jam session."
+        },
+        {
+            "question": "What do you call the shoes that all spies wear?",
+            "answer": "Sneakers."
+        },
+        {
+            "question": "What do you call something you can serve, but never eat?",
+            "answer": "A volleyball."
+        },
+        {
+            "question": "What did the alien say to the garden?",
+            "answer": "Take me to your weeder."
+        },
+        {
+            "question": "What do you call a skeleton who went out in freezing temperatures?",
+            "answer": "A numb skull."
+        },
+        {
+            "question": "What do you call a farm that grows bad jokes?",
+            "answer": "Corny."
+        },
+        {
+            "question": "What do you call the lights on Noah's Ark?",
+            "answer": "Flood lights."
+        },
+        {
+            "question": "What do you call a snobby criminal walking down the steps?",
+            "answer": "A condescending con descending!"
+        },
+        {
+            "question": "What do you call a dollar frozen in a block of ice?",
+            "answer": "Cold hard cash."
+        },
+        {
+            "question": "What do you call a dead pine tree?",
+            "answer": "A nevergreen."
+        },
+        {
+            "question": "What do you call a pencil that is broken?",
+            "answer": "Pointless."
+        },
+        {
+            "question": "What do you call two birds in love?",
+            "answer": "Tweethearts!"
+        },
+        {
+            "question": "What do you call a sad coffee?",
+            "answer": "Depresso."
+        },
+        {
+            "question": "What do you call a priest that becomes an attorney?",
+            "answer": "Father-in-Law."
+        },
+        {
+            "question": "What do you call a man with a toilet on his head?",
+            "answer": "John."
+        },
+        {
+            "question": "What do you call two octopuses that look exactly the same?",
+            "answer": "Itenticle."
+        },
+        {
+            "question": "What do you call a crab that plays baseball?",
+            "answer": "A pinch hitter."
+        },
+        {
+            "question": "What do you call a fish with no eyes?",
+            "answer": "Fsh."
+        },
+        {
+            "question": "What do you call a dancing lamb?",
+            "answer": "A baaaaaa-llerina!"
+        },
+        {
+            "question": "What do you call a bear with no socks?",
+            "answer": "Barefoot."
+        },
+        {
+            "question": "What do you call a snail aboard a ship?",
+            "answer": "A snailor."
+        },
+        {
+            "question": "What do you call an aardvark that is three feet long?",
+            "answer": "A yardvark."
+        },
+        {
+            "question": "What do you call a pony with a sore throat?",
+            "answer": "A little horse."
+        },
+        {
+            "question": "What do you call a deer that only costs a dollar?",
+            "answer": "A buck."
+        },
+        {
+            "question": "What do you call a dog that's freezing?",
+            "answer": "A chili dog."
+        },
+        {
+            "question": "What do you call a horse that likes arts and crafts?",
+            "answer": "A hobby horse."
+        },
+        {
+            "question": "What do you call a bear in the rain?",
+            "answer": "A drizzly bear."
+        },
+        {
+            "question": "What do you call an illegally parked frog?",
+            "answer": "Toad!"
+        },
+        {
+            "question": "What do you call a meditating wolf?",
+            "answer": "Aware wolf!"
+        },
+        {
+            "question": "What do you call a pile of cats?",
+            "answer": "Meowtain."
+        },
+        {
+            "question": "What do you call a rabbit that is really cool?",
+            "answer": "A hip hopper."
+        },
+        {
+            "question": "What do you call a bee that's having a bad hair day?",
+            "answer": "A frisbee."
+        },
+        {
+            "question": "What do you call a camel with no humps?",
+            "answer": "Humphrey."
+        },
+        {
+            "question": "What do you call a row of rabbits hopping away?",
+            "answer": "A receding hare line!"
+        },
+        {
+            "question": "What do you call an owl that's a magician?",
+            "answer": "Who-dini."
+        },
+        {
+            "question": "What do you call a bear that never wants to grow up?",
+            "answer": "Peter Panda!"
+        },
+        {
+            "question": "What do you call a dinosaur with a big vocabulary?",
+            "answer": "A thesaurus."
+        },
+        {
+            "question": "What do you call an egg laid by an evil chicken?",
+            "answer": "A deviled egg."
+        },
+        {
+            "question": "What do you call an alligator wearing a vest?",
+            "answer": "An investigator."
+        }
+    ],
+    "bg": [
+        {
+            "question": "Защо слонът не може да кара кола?",
+            "answer": "Защото няма книжка."
+        },
+        {
+            "question": "Защо пада дъждът?",
+            "answer": "Защото няма стълба, по която да слезе."
+        },
+        {
+            "question": "Защо всички в автобуса си дупчат билети, само джуджето не?",
+            "answer": "Защото има карта."
+        },
+        {
+            "question": "Как е бъдеще време на глагола „прозявам се“?",
+            "answer": "„Спя.“"
+        },
+        {
+            "question": "Какво е разстоянието от Земята до Луната?",
+            "answer": "Колкото от Луната до Земята."
+        },
+        {
+            "question": "Какво ще стане, ако котка изяде вафла „Морени“?",
+            "answer": "Котка-трепач."
+        },
+        {
+            "question": "Какво става, когато един лимон попадне в Ада?",
+            "answer": "Лимонада."
+        },
+        {
+            "question": "Какво означава $O$?",
+            "answer": "„Помощ,трябват ми пари.“"
+        },
+        {
+            "question": "Какво в заека е отзад, а в котката отпред?",
+            "answer": "Буквата „К“."
+        },
+        {
+            "question": "Лягаш да спиш в 8ч и ставаш в 9ч. Колко часа си спал?",
+            "answer": "Един."
+        },
+        {
+            "question": "Иван има 17 овце. Всички, освен 9, умрели. Колко овце са останали?",
+            "answer": "Девет."
+        },
+        {
+            "question": "Пилот си на самолет. В София се качват 10 пътника. В Пловдив слизат 3 и се качват 15. В Стара Загора се качват още 6 и никой не слиза. На колко години е пилота?",
+            "answer": "На колкото си ти."
+        },
+        {
+            "question": "Колко 9 има в числата от 1 до 100?",
+            "answer": "20."
+        },
+        {
+            "question": "Може ли мъж в България да си ожени за втората братовчедка на вдовицата си?",
+            "answer": "Не."
+        },
+        {
+            "question": "Колко вида животни е взел Ной в ковчега си?",
+            "answer": "Един."
+        },
+        {
+            "question": "Колко завоя има в света?",
+            "answer": "Два – ляв и десен."
+        },
+        {
+            "question": "Почти всеки месец има 30 или 31 дни. Кой месец има 28?",
+            "answer": "Всички."
+        },
+        {
+            "question": "Съществува ли в Мароко ден 3 март?",
+            "answer": "Да."
+        },
+        {
+            "question": "Два влака тръгват едновременно от София и Бургас. Срещат се по средата. Кой е по близко до София?",
+            "answer": "Тръгналият от София."
+        },
+        {
+            "question": "Кой цар имал най-голяма корона?",
+            "answer": "Този, който имал най-голяма глава."
+        },
+        {
+            "question": "Къде моретата са сухи?",
+            "answer": "На картата."
+        },
+        {
+            "question": "В какви чинии се сипва тараторът?",
+            "answer": "Празни."
+        },
+        {
+            "question": "Какво е пара?",
+            "answer": "Вода в момент на вдъхновение."
+        },
+        {
+            "question": "Какво е килим?",
+            "answer": "Забогатяла черга."
+        },
+        {
+            "question": "Защо хората носят чадъри?",
+            "answer": "Защото чадърите не могат да ходят."
+        },
+        {
+            "question": "Какво става, когато се прегърнат две стоножки?",
+            "answer": "Цип."
+        },
+        {
+            "question": "Кога жените са най-безпомощни?",
+            "answer": "Когато лакът на ноктите им още не е изсъхнал!"
+        },
+        {
+            "question": "Кое е най-лошото, което можеш да пожелаеш на микроб?",
+            "answer": "Много здраве!"
+        }
+    ]
+}
