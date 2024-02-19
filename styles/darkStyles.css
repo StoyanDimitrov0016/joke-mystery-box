@@ -1,0 +1,25 @@
+.dark-theme {
+    background-color: #333;
+}
+
+.dark-theme main {
+    background-color: #222;
+}
+
+.dark-theme h1 {
+    color: #ccf700
+}
+
+.dark-theme p {
+    color: #a0ad5c;
+}
+
+.dark-theme button {
+    background-color: #444;
+    color: beige;
+}
+
+.dark-theme div {
+    background-color: #222;
+    color: lightgray;
+}
